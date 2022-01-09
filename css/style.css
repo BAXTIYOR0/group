@@ -14,3 +14,31 @@
     align-items: center;
     font-family: fantasy;
 }
+.laziz{
+    background-color: rgb(13, 13, 100);
+    padding: 20px;
+}
+.laziz> h1{
+    font-size: 40px;
+    color: brown;
+    background-color: burlywood;
+    padding: 20px;
+    font-family: fantasy;
+    margin-top: 20px;
+    text-align: center;
+    text-transform: uppercase;
+}
+.laziz>img{
+    width: 700px;
+    height: 700px;
+    display: block;
+    margin: 20px auto;
+}
+.laziz> p{
+    font-size: 20px;
+    color: brown;
+    text-align: center;
+    margin: 50px auto;
+    max-width: 700px;
+    font-family: fantasy;
+}
